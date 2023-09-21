@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:contracttestsunu.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:contracttestsunu.github.io#6241d181a684b93b632663a141be87147b6500dea585e2e1aba84393348b915a",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:contracttestsunu.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "6vMEhieICs0mPT57DWA32xgeAuvCiz-Uos1x4wkAZgQ=",
+        "y": "XOdhijKL19KR7Wc8sMRDLITDFJ2npmE47BxVIOrHSdE=",
+        "kid": "6241d181a684b93b632663a141be87147b6500dea585e2e1aba84393348b915a",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
